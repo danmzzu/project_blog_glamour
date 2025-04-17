@@ -9,3 +9,4 @@ export const dbConfig = {
 };
 
 export const table = 'posts';
+export const siteName = 'Glamuor';
